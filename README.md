@@ -1,10 +1,10 @@
-# TRABAJO PRÁCTICO INTEGRADOR - Computación Aplicada
+# COMPUTACIÓN APLICADA - Trabajo Práctico Integrador
 
 **Universidad de Palermo - Facultad de Ingeniería**
 
 ---
 
-## Integrantes del Grupo
+## Integrantes Grupo 2
 
 * Camarotta, Lucas
 * Flores, Valentin
